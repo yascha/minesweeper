@@ -7,7 +7,9 @@ int main()
 {
 	Board* b = init_board();
 	print_board(b, false);
+#ifdef DEBUG
 	print_board(b, true);
+#endif
 
 	char str[100]; // to store user input
 
