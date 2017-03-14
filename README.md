@@ -1,2 +1,2 @@
 # minesweeper
-Minesweeper impementation in C
+Minesweeper implementation in C
